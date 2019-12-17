@@ -1,3 +1,15 @@
+# Copyright (c) 2017-2019, googlehosts members.
+# https://github.com/googlehosts/hosts
+# Last updated: 2019-12-05
+
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+# Localhost (DO NOT REMOVE) End
 www.avtb0088.com##DIV[class="ads"]
 www.ifeng.com##DIV[class*="topAd"]
 www.ifeng.com##DIV[class*="qrCode"]
